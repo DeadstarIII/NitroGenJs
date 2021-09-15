@@ -1,6 +1,2 @@
-# NitroGenerator
-# Credits
-Credits - ZeroDiscord
-https://github.com/ZeroDiscord/NitroGen
-# Website
+# nitro
 https://showherogames.github.io/NitroGenerator/
