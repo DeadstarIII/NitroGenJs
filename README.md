@@ -1,2 +1,3 @@
 # nitro
-https://showherogames.github.io/NitroGenerator/
+Only for educational purpose
+# DEPENDS ON LUCK
